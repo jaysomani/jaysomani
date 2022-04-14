@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jaysomani
 - 👀 I’m interested in Webdevlopement
-- 🌱 I’m currently learning backend
 - 📫 How to reach me - jaysomani2016@gmail.com
 
 ---
