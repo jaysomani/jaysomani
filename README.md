@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQFKcvYtyeroMQ/profile-displaybackgroundimage-shrink_350_1400/0/1666024203535?e=1684368000&v=beta&t=a88yid0IRAfTahUOFSzLSB24pi1mvDhk5u7upbgXYwk)](https://rishavchanda.io)
+[![MasterHead](https://drive.google.com/file/d/19LR1jXTJFiYymdTuCER3Mv0S-2fEstav/view?usp=sharing)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Jayesh somani</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
