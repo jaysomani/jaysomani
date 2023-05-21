@@ -1,4 +1,5 @@
-<img src="https://drive.google.com/file/d/19LR1jXTJFiYymdTuCER3Mv0S-2fEstav/view?usp=sharing" alt="jayesh_s_s" />
+![1666024203535](https://github.com/jaysomani/jaysomani/assets/69755312/fb417b4f-f421-423b-889a-c5ee6fbc8422)
+
 <h1 align="center">Hi 👋, I'm Jayesh somani</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
