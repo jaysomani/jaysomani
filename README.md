@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/19LR1jXTJFiYymdTuCER3Mv0S-2fEstav/view?usp=sharing)](https://rishavchanda.io)
+<img src="https://drive.google.com/file/d/19LR1jXTJFiYymdTuCER3Mv0S-2fEstav/view?usp=sharing" alt="jayesh_s_s" />
 <h1 align="center">Hi 👋, I'm Jayesh somani</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
