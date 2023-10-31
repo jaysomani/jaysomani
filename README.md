@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Metaverse project](https://www.youtube.com/watch?v=n5naoWflvdE&ab_channel=Jayeshsomani)
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently involved in **OpenSource**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/jayesh-somani/](https://www.linkedin.com/in/jayesh-somani/)
 
