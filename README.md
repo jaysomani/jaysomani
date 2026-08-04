@@ -30,7 +30,7 @@ Core infrastructure contributions to Appwrite's VCS adapter library, reviewed an
 | **`feat/unified-base-tests`** | Migrated shared tests from 5 per-adapter files into a single `Base.php` class running across Gitea, GitLab, GitHub, Gogs & Forgejo — zero if/else or switch/case |
 | **`feat/normalize-adapter-behavior`** | Fixed GitLab/GitHub adapter inconsistencies so all adapters return a uniform `{items, total}` structure; fixed silent failure in `GitHub::updateCommitStatus` |
 
-> O(n×100) → O(1) test architecture fix, approved at CEO level ✅
+> O(n×100) → O(1) test architecture fix✅
 
 ---
 
